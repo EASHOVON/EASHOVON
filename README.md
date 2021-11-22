@@ -30,13 +30,9 @@ With wide experience as a React Web Developer, I have acquired the skills and kn
 </p>
 
 
-
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=eashovon)  
 
 ![GitHub metrics](https://metrics.lecoq.io/eashovon)  
-
-
 
 #### Profile Visits
 ![Profile views](https://gpvc.arturio.dev/eashovon)  
