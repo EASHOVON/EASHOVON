@@ -1,11 +1,3 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eashovon&label=Profile%20views&color=0e75b6&style=flat" alt="eashovon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eashovon" alt="eashovon" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ashrafu14454682" target="blank"><img src="https://img.shields.io/twitter/follow/ashrafu14454682?logo=twitter&style=for-the-badge" alt="ashrafu14454682" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/eashovon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eashovon" height="30" width="40" /></a>
