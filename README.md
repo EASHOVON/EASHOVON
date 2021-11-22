@@ -24,9 +24,10 @@ With wide experience as a React Web Developer, I have acquired the skills and kn
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eashovon&show_icons=true&theme=tokyonight&line_height=52" />
+</p>
+<p align="center">
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eashovon&count_private=true&theme=tokyonight&line_height=52" />
 </p>
-
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
