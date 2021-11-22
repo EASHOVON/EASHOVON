@@ -40,7 +40,7 @@ With wide experience as a React Web Developer, I have acquired the skills and kn
 
 ![GitHub metrics](https://metrics.lecoq.io/eashovon)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=eashovon)  
+
 
 #### Profile Visits
 ![Profile views](https://gpvc.arturio.dev/eashovon)  
