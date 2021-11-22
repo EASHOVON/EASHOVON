@@ -35,9 +35,6 @@ With wide experience as a React Web Developer, I have acquired the skills and kn
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eashovon)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eashovon)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eashovon&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=eashovon)  
 
@@ -45,4 +42,5 @@ With wide experience as a React Web Developer, I have acquired the skills and kn
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=eashovon)  
 
+#### Profile Visits
 ![Profile views](https://gpvc.arturio.dev/eashovon)  
