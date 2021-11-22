@@ -7,7 +7,7 @@ With wide experience as a React Web Developer, I have acquired the skills and kn
 
 
 #### Learned Till Now:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 - 🌱 I’m currently learning MERN STACK 
 - 👯 I’m looking to collaborate on GitHub. 
