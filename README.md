@@ -23,8 +23,8 @@ With wide experience as a React Web Developer, I have acquired the skills and kn
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eashovon-wd&show_icons=true&theme=tokyonight&line_height=52" />
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eashovon-wd&count_private=true&theme=tokyonight&line_height=52" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eashovon&show_icons=true&theme=tokyonight&line_height=52" />
+  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eashovon&count_private=true&theme=tokyonight&line_height=52" />
 </p>
 
 
